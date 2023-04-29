@@ -1,0 +1,25 @@
+body {
+    font-family: Ysabeau, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e8daef;
+}
+
+.calculatpr {
+    display: flex;
+}
+
+.display {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button {
+    font-family: Ysabeau, serif;
+    height: 35px;
+    width: 45px;
+}
